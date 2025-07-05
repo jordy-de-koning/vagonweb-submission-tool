@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Web/VagonWebSubmissionTool.Web.csproj": {}
+  },
+  "projects": {
+    "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/VagonWebSubmissionTool.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/VagonWebSubmissionTool.Application.csproj",
+        "projectName": "VagonWebSubmissionTool.Application",
+        "projectPath": "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/VagonWebSubmissionTool.Application.csproj",
+        "packagesPath": "/home/kaelon/.nuget/packages/",
+        "outputPath": "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kaelon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/home/kaelon/local-nuget-feed": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.12.1, )"
+            },
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/kaelon/.dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Web/VagonWebSubmissionTool.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Web/VagonWebSubmissionTool.Web.csproj",
+        "projectName": "VagonWebSubmissionTool.Web",
+        "projectPath": "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Web/VagonWebSubmissionTool.Web.csproj",
+        "packagesPath": "/home/kaelon/.nuget/packages/",
+        "outputPath": "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kaelon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/home/kaelon/local-nuget-feed": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/VagonWebSubmissionTool.Application.csproj": {
+                "projectPath": "/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/VagonWebSubmissionTool.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/kaelon/.dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/bin/Debug/net9.0/VagonWebSubmissionTool.Application.deps.json
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/bin/Debug/net9.0/VagonWebSubmissionTool.Application.dll
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/bin/Debug/net9.0/VagonWebSubmissionTool.Application.pdb
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/Debug/net9.0/VagonWebSubmissionTool.Application.csproj.AssemblyReference.cache
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/Debug/net9.0/VagonWebSubmissionTool.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/Debug/net9.0/VagonWebSubmissionTool.Application.AssemblyInfoInputs.cache
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/Debug/net9.0/VagonWebSubmissionTool.Application.AssemblyInfo.cs
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/Debug/net9.0/VagonWebSubmissionTool.Application.csproj.CoreCompileInputs.cache
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/Debug/net9.0/VagonWebSubmissionTool.Application.sourcelink.json
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/Debug/net9.0/VagonWebSubmissionTool.Application.dll
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/Debug/net9.0/refint/VagonWebSubmissionTool.Application.dll
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/Debug/net9.0/VagonWebSubmissionTool.Application.pdb
+/home/kaelon/source/vagonweb/vagonweb-submission-tool/backend/src/VagonWebSubmissionTool.Application/obj/Debug/net9.0/ref/VagonWebSubmissionTool.Application.dll

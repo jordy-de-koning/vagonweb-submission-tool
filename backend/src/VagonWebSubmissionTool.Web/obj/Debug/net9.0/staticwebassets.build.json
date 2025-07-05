@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZYjLww0e7j2iMYD0hKaFkERx4U03x2iMpVoYuhBr5Lg=",
+  "Source": "VagonWebSubmissionTool.Web",
+  "BasePath": "_content/VagonWebSubmissionTool.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
