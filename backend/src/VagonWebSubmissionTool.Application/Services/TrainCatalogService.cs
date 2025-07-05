@@ -8,7 +8,6 @@ public interface ITrainCatalogService
     public record TrainDescription(string Number, string Name, string Route, string TrainUrl);
     public record TrainCategory(string CategoryCode, string Description);
     public record TrainOperator(string OperatorCode, string Name, List<TrainCategory> Categories);
-
     public record Country(string CountryName, List<TrainOperator> Operators);
 
     public Task<Result<List<Country>, string>> GetTrainCategories(int? year = null);

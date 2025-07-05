@@ -15,7 +15,7 @@ public class TrainsController(ITrainCatalogService trainCatalogService) : BaseCo
         return categories switch
         {
             { IsSuccess: true, Value: var operators } => Ok(operators),
-            { IsFailure: true, Value: var error } => StatusCode(StatusCodes.Status500InternalServerError, error),
+            { IsFailure: true, Error: var error } => StatusCode(StatusCodes.Status500InternalServerError, error),
             _ => StatusCode(StatusCodes.Status500InternalServerError)
         };
     }
@@ -30,7 +30,7 @@ public class TrainsController(ITrainCatalogService trainCatalogService) : BaseCo
         return trains switch
         {
             { IsSuccess: true, Value: var operators } => Ok(operators),
-            { IsFailure: true, Value: var error } => StatusCode(StatusCodes.Status500InternalServerError, error),
+            { IsFailure: true, Error: var error } => StatusCode(StatusCodes.Status500InternalServerError, error),
             _ => StatusCode(StatusCodes.Status500InternalServerError)
         };
     }
